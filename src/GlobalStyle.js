@@ -16,12 +16,6 @@ background-color: #e7ecf2;
   
 }
 
-
-@import-normalize;
-body {
-  font-family: sans-serif;
-  line-height: 1.5;
-}
 h1,
 h2,
 h3,
